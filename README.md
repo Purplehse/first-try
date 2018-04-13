@@ -12,3 +12,4 @@ So it does work which is really neat, I will try chainging color, but I think th
   <li> This is my "second" day of coding</li>
 </ul>
 <h6> hm... </h6> 
+<font color="red"> Testing color again</font>

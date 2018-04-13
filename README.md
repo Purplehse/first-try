@@ -18,3 +18,11 @@ So it does work which is really neat, I will try chainging color, but I think th
 
 <font color="red"> Testing color again</font> 
 
+<header class="container">
+  <div class="row">
+  <h1 class="col-sm-4">ClassColSm8</h1>
+  <nav class="col-sm-8 text-right">
+    <p>Read Me</p>
+    <p>Farts</p>
+  </nav>
+  </div>

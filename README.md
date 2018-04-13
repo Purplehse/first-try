@@ -1,7 +1,7 @@
 # first-try
 First time making a repository 
 4/13/18 12:40 p.m.
-<title> Start</title>
+
 <h1> Test </h1>
 
 <p> So here I will be testing the paragraph, I am not sure if this works.

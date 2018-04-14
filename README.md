@@ -9,7 +9,7 @@ So it does work which is really neat, I will try chainging color, but I think th
 <ul> 
   <li> Using " color: red;" does not work </li>
   <li> But the listing function works which is pretty neat</li>
-  <li> This is my "second" day of coding</li>
+  <li> This is my "second" hour of coding</li>
 </ul>
 
 <h6> hm... </h6> 
@@ -22,7 +22,7 @@ So it does work which is really neat, I will try chainging color, but I think th
   <div class="row">
   <h1 class="col-sm-4">ClassColSm8 does nothing in GitHubs coding thing</h1>
   <nav class="col-sm-8 text-right">
-    <p>Read Me</p>
+    <p>Dickbutt</p>
     <p>Farts</p>
   </nav>
   </div>

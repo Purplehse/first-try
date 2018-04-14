@@ -20,12 +20,12 @@ So it does work which is really neat, I will try chainging color, but I think th
 
 <header class="container">
   <div class="row">
-  <h1 class="col-sm-4">ClassColSm8</h1>
+  <h1 class="col-sm-4">ClassColSm8 does nothing in GitHubs coding thing</h1>
   <nav class="col-sm-8 text-right">
     <p>Read Me</p>
     <p>Farts</p>
   </nav>
   </div>
   <h4> 7:31pm, the time I completed codeacademy's "Build a Website" course </h4> 
-  <img src="https://medium.com/@valgaze/the-hidden-purple-memorial-in-your-web-browser-7d84813bb416"> 
+  <img src="https://upload.wikimedia.org/wikipedia/en/8/8b/Purplecom.jpg"> 
 I have learned to insert images

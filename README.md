@@ -26,3 +26,6 @@ So it does work which is really neat, I will try chainging color, but I think th
     <p>Farts</p>
   </nav>
   </div>
+  <h4> 7:31pm, the time I completed codeacademy's "Build a Website" course </h4> 
+  <img src="https://medium.com/@valgaze/the-hidden-purple-memorial-in-your-web-browser-7d84813bb416"> 
+I have learned to insert images
